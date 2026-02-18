@@ -1,23 +1,25 @@
-# SAE - Développement d'une application en Python
+# SAE S1.01 – Développement d'une application en Python
 
-📅 Réalisé au semestre 1 dans le cadre du BUT Informatique (Université Sorbonne Paris Nord)  
-👥 Par Marewane et Nassim  
-📁 Format : Notebook Jupyter (.ipynb)
+Projet réalisé au semestre 1 dans le cadre du BUT Informatique (Université Sorbonne Paris Nord).  
+Travail effectué en binôme avec Nassim.  
+Format : Notebook Jupyter (.ipynb).
 
-## 🎯 Objectif
+## Objectif
 
-Réaliser une application Python répondant au sujet donné, en travaillant directement dans un notebook Jupyter. Ce projet était notre premier vrai projet de programmation.
+Développer une application en Python répondant au sujet proposé, directement au sein d’un notebook Jupyter.  
+Il s’agissait de notre premier projet conséquent en programmation, avec pour objectif de mettre en pratique les bases acquises en début de formation.
 
-## 🧪 Technologies
+## Technologies utilisées
 
-- Python 3
+- Python 3  
 - Jupyter Notebook
 
-## 🗂️ Structure
+## Structure du projet
 
-- `notebooks/Sujet_2022.ipynb` : le projet tel qu’il a été réalisé en S1.
-- `requirements.txt` : liste optionnelle des dépendances nécessaires.
+- `notebooks/Sujet_2022.ipynb` : notebook contenant le projet tel qu’il a été réalisé au semestre 1  
+- `requirements.txt` : liste optionnelle des dépendances nécessaires à l’exécution
 
-## ⚠️ Remarque
+## Remarque
 
-Le code et l'organisation sont restés très proches du projet initial pour rester fidèles à notre niveau de l'époque. Ce dépôt a été nettoyé uniquement pour une meilleure lisibilité et accessibilité.
+Le code et l’organisation du projet ont volontairement été conservés très proches de la version originale afin de refléter fidèlement notre niveau à ce stade de la formation.  
+Le dépôt a uniquement été nettoyé et réorganisé pour améliorer la lisibilité et la compréhension du projet.
